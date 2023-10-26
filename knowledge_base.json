@@ -1,0 +1,17 @@
+{
+  "questions": [
+    {
+      "question": "What is your name?",
+      "answer": "My name is ChatGPT."
+    },
+    {
+      "question": "How are you?",
+      "answer": "I'm doing well, thank you!"
+    },
+    {
+      "question": "physics",
+      "answer": "it is a subject"
+    }
+    
+  ]
+}
